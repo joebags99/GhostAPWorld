@@ -1,0 +1,1270 @@
+[
+  {
+    "name": "Main Quest: Prologue",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Warrior's Code",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Broken Blacksmith",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Tale of Sensei Ishikawa",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Tale of Lady Masako",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: Blood on the Grass",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: Hammer and Forge",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Tale of Ryuzo",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: The Iron Hook",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: Shadow of the Samurai",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: A New Horizon",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Main Quest: A Message in Fire",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: The Walls of Yarikawa",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: The Coward of Yarikawa",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: The Ghost of Yarikawa",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: Ghost from the Past",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: A Reckoning in Blood",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: The Fate of Tsushima",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: From the Darkness",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Main Quest: Honor and Ash",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Main Quest: Wolves at the Gates",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Main Quest: A Gathering Storm",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Main Quest: Heart of the Jito",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Main Quest: The Tale of Lord Shimura",
+    "category": [
+      "Main Quests"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Mythic Tale: The Heavenly Strike",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Mythic Tale: The Legend of Tadayori",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Mythic Tale: The Curse of Uchitsune",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Mythic Tale: The Unbreakable Gosaku",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Mythic Tale: The Six Blades of Kojiro",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Mythic Tale: The Undying Flame",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Mythic Tale: The Spirit of Yarikawa's Vengeance",
+    "category": [
+      "Mythic Tales"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Izuhara #1",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #2",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #3",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #4",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #5",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #6",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #7",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #8",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #9",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #10",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #11",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #12",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #13",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #14",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #15",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #16",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #17",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #18",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Izuhara #19",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Fox Dens — Toyotama #1",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #2",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #3",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #4",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #5",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #6",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #7",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #8",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #9",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #10",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #11",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #12",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #13",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #14",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #15",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #16",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #17",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Toyotama #18",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #1",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #2",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #3",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #4",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #5",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #6",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #7",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #8",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #9",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #10",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #11",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Fox Dens — Kamiagata #12",
+    "category": [
+      "Fox Dens"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #1",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #2",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #3",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #4",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #5",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #6",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #7",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Izuhara #8",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #1",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #2",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #3",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #4",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #5",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #6",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #7",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Toyotama #8",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #1",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #2",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #3",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #4",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #5",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #6",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Pillars of Honor — Kamiagata #7",
+    "category": [
+      "Pillars of Honor"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Haiku — Izuhara #1",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #2",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #3",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #4",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #5",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #6",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Izuhara #7",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Haiku — Toyotama #1",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #2",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #3",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #4",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #5",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #6",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Toyotama #7",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Haiku — Kamiagata #1",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Haiku — Kamiagata #2",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Haiku — Kamiagata #3",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Haiku — Kamiagata #4",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Haiku — Kamiagata #5",
+    "category": [
+      "Haiku"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Hot Springs — Izuhara #1",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #2",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #3",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #4",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #5",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #6",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Izuhara #7",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Hot Springs — Toyotama #1",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Toyotama #2",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Toyotama #3",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Toyotama #4",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Toyotama #5",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Toyotama #6",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Hot Springs — Kamiagata #1",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Hot Springs — Kamiagata #2",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Hot Springs — Kamiagata #3",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Hot Springs — Kamiagata #4",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Hot Springs — Kamiagata #5",
+    "category": [
+      "Hot Springs"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #1",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #2",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #3",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #4",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #5",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Izuhara #6",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #1",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #2",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #3",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #4",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #5",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Toyotama #6",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Shinto Shrines — Kamiagata #1",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Shinto Shrines — Kamiagata #2",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Shinto Shrines — Kamiagata #3",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Shinto Shrines — Kamiagata #4",
+    "category": [
+      "Shinto Shrines"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #1",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #2",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #3",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #4",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #5",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Izuhara #6",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #1",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #2",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #3",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #4",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #5",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Toyotama #6",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Bamboo Strikes — Kamiagata #1",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Bamboo Strikes — Kamiagata #2",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Bamboo Strikes — Kamiagata #3",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Bamboo Strikes — Kamiagata #4",
+    "category": [
+      "Bamboo Strikes"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Lighthouses — Izuhara #1",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Lighthouses — Izuhara #2",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Lighthouses — Izuhara #3",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Izuhara"
+  },
+  {
+    "name": "Lighthouses — Toyotama #1",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Lighthouses — Toyotama #2",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Lighthouses — Toyotama #3",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Toyotama"
+  },
+  {
+    "name": "Lighthouses — Kamiagata #1",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Lighthouses — Kamiagata #2",
+    "category": [
+      "Lighthouses"
+    ],
+    "region": "Kamiagata"
+  },
+  {
+    "name": "Defeat the Khan (Eternal Blue Sky)",
+    "category": [
+      "Goal"
+    ],
+    "region": "Kamiagata",
+    "victory": true
+  }
+]

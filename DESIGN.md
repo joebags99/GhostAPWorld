@@ -19,12 +19,33 @@ scaffolding, item tables, or Python classes are written. Nothing in here is buil
   harder than *reading* checks.
 - **Recommendation: build a Manual (honor-system) APworld first** using the ManualForArchipelago
   template. It ships fast, requires zero reverse-engineering, validates the whole item/location/
-  logic design, and pairs naturally with the NG+ premise. Automation can be layered on later.
-- **One important design wrinkle: NG+ carries over abilities.** Techniques, Armor, and Vanity
-  persist into New Game+, while Collections reset. That makes NG+ a great fit for an honor-system
-  world but a poor fit for "lock everything and grant on receive" automation. See §7.
+  logic design, and pairs naturally with a **fresh-save** playthrough. Automation can be layered on
+  later.
+- **Premise chosen: fresh save (not NG+).** On a fresh save, abilities are genuine "locked until
+  received" unlocks — cleaner item semantics and a better foundation for eventual automation. See
+  the Decision Log below and §7 for the NG+ trade-off that drove this.
 - **Flowersanity (the ~1683-flowers idea) is unverified** and probably conflicts with the fact that
   Ghost Flowers are a *renewable currency*. Scoped out of the MVP pending verification.
+
+---
+
+## Decision Log (2026-07-20) — supersedes NG+ framing below
+
+These choices are locked and drive the MVP build. Where the sections below still discuss NG+, read
+them as the reasoning that led here, not the current plan:
+
+1. **Fresh save, not NG+.** Abilities become real "locked until received" unlocks (better semantics
+   + a cleaner path to future automation). **Consequences:** Ghost Flowers and Baku the Voiceless
+   drop out of the pool (both NG+-only); cutscene-skip is unavailable (async is slightly slower);
+   **Mongol Artifacts are promoted to valid checks** (they'd be pre-collected in an NG+ save).
+   Difficulty is still selectable at new-game start, so "Easy for async" still holds.
+2. **Flowersanity is deferred** to a stretch phase (unverified count + renewable-currency conflict).
+3. **Quest enumeration source:** the Fextralife Quests page (organized by Act), backed by PowerPyx /
+   GameWith / Ghost Franchise Fandom for names and per-region collectible counts.
+
+The concrete MVP derived from these decisions (3 act regions, ~180 checks, item pool, category
+toggles, verification) is implemented as the Manual world data under `src/data/` in this repo; see
+`README.md` for build/play steps.
 
 ---
 
@@ -168,23 +189,22 @@ wikis and 100% guides.
 
 ## 5. Open questions / blockers
 
-1. **NG+ vs. fresh save — pick the premise.** NG+ carries over Techniques/Armor/Vanity, so those
-   can't be genuine "locked until received" unlocks without heavy re-lock modding — they only work
-   on the honor system. A **fresh base-game** run locks abilities naturally and is far better for
-   *future automation*, but loses NG+'s cutscene-skip / Baku / Ghost Flowers / easy-difficulty
-   perks. Which is the target? *(My read: NG+ + Manual is the coherent v1; revisit for automation.)*
-2. **Flowersanity is unverified.** Is the ~1683 figure real (fixed nodes) or a misread of renewable
-   currency? Can you point me at the datamine, or is confirming it in scope? Until verified I'd
-   scope it out of the MVP entirely.
-3. **Artifacts / non-resetting collectibles in NG+.** Mongol Artifacts (and anything else that
-   persists through NG+) would be pre-completed in an NG+ save — drop them as checks in NG+, or
-   only use them in a fresh-save mode?
-4. **Side-quest / Tale enumeration.** Do you already have a canonical list of Tales (base + Iki)
-   with names? That's the main content-gathering task for that category.
-5. **Two goals, two maps.** "Defeat the Khan" (base) and "Beat the Eagle" (Iki) — one world with a
-   goal option and an Iki toggle, or Iki as a separate/optional region set? Affects scope.
-6. **Difficulty / async intent + run length.** You mentioned Easy+ for async. Any target for run
-   length (number of checks) so I can size the MVP pool sensibly?
+*(Resolved items are struck through with the decision inline; see the Decision Log at the top.)*
+
+1. ~~**NG+ vs. fresh save.**~~ **RESOLVED → fresh save.** Abilities lock naturally as real unlocks;
+   better for future automation. Trade-off accepted: no cutscene-skip / Baku / Ghost Flowers.
+2. ~~**Flowersanity verification.**~~ **RESOLVED → deferred** to a stretch phase; out of MVP scope.
+3. ~~**Artifacts in NG+.**~~ **RESOLVED** — moot on a fresh save; Mongol Artifacts are now valid
+   checks (Phase 2 fast-follow).
+4. ~~**Side-quest / Tale enumeration.**~~ **RESOLVED → Fextralife Quests page** (by Act) is the
+   source. Main quests (24) + Mythic Tales (7) are in the MVP; the 61 side Tales come in Phase 2.
+5. **Two goals, two maps** (still open, not needed for MVP). "Defeat the Khan" (base) is the MVP
+   goal; "Beat the Eagle" (Iki) is added in Phase 3 as a second victory location behind an Iki
+   toggle. Confirm you want a single world with a goal option (vs. a separate Iki world) when we get
+   there.
+6. **Difficulty / async run length** (still open, non-blocking). MVP is sized at ~180 checks with
+   category toggles so a short async run can drop the big collectible categories. Tell me if you
+   want a different default size.
 
 ---
 

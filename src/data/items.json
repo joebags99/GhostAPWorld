@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Act II Access",
+    "category": [
+      "Progression"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Act III Access",
+    "category": [
+      "Progression"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Stone Stance",
+    "category": [
+      "Stances"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Water Stance",
+    "category": [
+      "Stances"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Wind Stance",
+    "category": [
+      "Stances"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Moon Stance",
+    "category": [
+      "Stances"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Kunai",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Smoke Bomb",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Black Powder Bomb",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Sticky Bomb",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Wind Chime",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Blowgun",
+    "category": [
+      "Ghost Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Half Bow",
+    "category": [
+      "Ranged Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Longbow",
+    "category": [
+      "Ranged Weapons"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "Technique Point",
+    "category": [
+      "Upgrades"
+    ],
+    "count": 25,
+    "progression": true
+  },
+  {
+    "name": "Health Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "count": 6,
+    "progression": true
+  },
+  {
+    "name": "Resolve Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "count": 8,
+    "progression": true
+  },
+  {
+    "name": "Heavenly Strike",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Dance of Wrath",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Way of the Flame",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Way of the Bow",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Tadayori's Armor",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Gosaku's Armor",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Sarugami Armor",
+    "category": [
+      "Mythic Rewards"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Traveler's Attire",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Samurai Clan Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Ronin Attire",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Sakai Clan Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Kensei Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Mongol Commander's Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Ghost Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Kagemusha Armor",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Fundoshi",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Sly Fox's Kimono",
+    "category": [
+      "Armor"
+    ],
+    "count": 1,
+    "useful": true
+  },
+  {
+    "name": "Major Charm",
+    "category": [
+      "Charms"
+    ],
+    "count": 8,
+    "useful": true
+  },
+  {
+    "name": "Minor Charm",
+    "category": [
+      "Charms"
+    ],
+    "count": 16,
+    "useful": true
+  },
+  {
+    "name": "Sword Kit",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 8,
+    "useful": true
+  },
+  {
+    "name": "Dye",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 8
+  },
+  {
+    "name": "Vanity Gear",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 6
+  },
+  {
+    "name": "Sashimono Banner",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 6
+  },
+  {
+    "name": "Sakai Banner",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 4
+  },
+  {
+    "name": "Saddle",
+    "category": [
+      "Cosmetics"
+    ],
+    "count": 6
+  },
+  {
+    "name": "Singing Cricket",
+    "category": [
+      "Filler"
+    ],
+    "count": 6
+  },
+  {
+    "name": "Record",
+    "category": [
+      "Filler"
+    ],
+    "count": 6
+  },
+  {
+    "name": "Predator Hide",
+    "category": [
+      "Filler"
+    ],
+    "count": 4
+  },
+  {
+    "name": "Bamboo",
+    "category": [
+      "Filler"
+    ],
+    "count": 4
+  },
+  {
+    "name": "Linen",
+    "category": [
+      "Filler"
+    ],
+    "count": 4
+  },
+  {
+    "name": "Steel",
+    "category": [
+      "Filler"
+    ],
+    "count": 4
+  }
+]

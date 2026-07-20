@@ -1,0 +1,18 @@
+{
+  "Izuhara": {
+    "starting": true,
+    "connects_to": [
+      "Toyotama"
+    ]
+  },
+  "Toyotama": {
+    "requires": "{Act II Access}",
+    "connects_to": [
+      "Kamiagata"
+    ]
+  },
+  "Kamiagata": {
+    "requires": "{Act III Access}",
+    "connects_to": []
+  }
+}

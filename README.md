@@ -45,6 +45,12 @@ python3 tools/build_data.py     # regenerate src/data/*.json
 python3 tools/validate_world.py # verify consistency + solvability (no game/AP needed)
 ```
 
+**Schema notes (verified against the Manual docs):** in a `requires` string, **pipes mean
+items** — `|Act II Access|`, `|Item:3|`, `|@Category:2|` — while **curly braces `{fn()}` call a
+function from `hooks/Rules.py`** (which this world does not ship). Item names may not contain
+`:` or `|`, and names should stay ASCII so they render in the Archipelago client. The validator
+enforces all of this.
+
 ## Building the `.apworld`
 
 This repo stores **our data only**; combine it with the Manual base template to produce the world:
@@ -54,13 +60,18 @@ This repo stores **our data only**; combine it with the Manual base template to 
 2. Replace the template's `src/data/` with the `src/data/` from this repo (or copy our five JSON
    files over the template's). Optionally point the ManualBuilder web tool
    (<https://manualforarchipelago.github.io/ManualBuilder/>) at these files.
-3. Build the template to produce `manual_ghost_of_tsushima_ghostapworld.apworld`.
-4. Drop the `.apworld` into your Archipelago install's `custom_worlds/` folder (or `worlds/`).
+3. Build the template. The world is named `Manual_GhostOfTsushima_GhostAPWorld` (Manual derives
+   it from `game` + `creator` in `game.json`), so the output is
+   `manual_ghostoftsushima_ghostapworld.apworld` — all lowercase, no spaces, as the Archipelago
+   apworld spec requires (the filename must match the folder inside the zip).
+4. Drop the `.apworld` into the `custom_worlds/` folder of your Archipelago install (the
+   apworld spec's `worlds/` directory, which is `lib/worlds/` in an installed build).
 
 ## Generating a game
 
-1. Create a player YAML for `Ghost of Tsushima` (the Manual template ships a sample YAML with the
-   built-in **goal** option — MVP exposes the single goal *Defeat the Khan*).
+1. Create a player YAML for the game `Manual_GhostOfTsushima_GhostAPWorld` (the Manual template
+   ships a sample YAML with the built-in **goal** option — MVP exposes the single goal
+   *Defeat the Khan*).
 2. Run the Archipelago generator. It should fill without errors and produce a seed whose spoiler
    shows **Act II Access** and **Act III Access** reachable in order, with the victory location
    gated behind Act III.

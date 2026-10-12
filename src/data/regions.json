@@ -6,13 +6,13 @@
     ]
   },
   "Toyotama": {
-    "requires": "{Act II Access}",
+    "requires": "|Act II Access|",
     "connects_to": [
       "Kamiagata"
     ]
   },
   "Kamiagata": {
-    "requires": "{Act III Access}",
+    "requires": "|Act III Access|",
     "connects_to": []
   }
 }

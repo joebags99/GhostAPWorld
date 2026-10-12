@@ -24,12 +24,14 @@ DATA = os.path.join(REPO, "src", "data")
 # Menu -> Izuhara (start) -> Toyotama (needs Act II Access) -> Kamiagata (needs Act III Access).
 # Because Kamiagata is only reachable *through* Toyotama, reaching it requires both
 # access items in order, so we never need compound `requires` strings on locations.
+# Syntax (verified vs Manual docs): |Item Name| references an item; {fn()} would be a
+# hooks/Rules.py *function call*, which we do not ship.
 IZUHARA, TOYOTAMA, KAMIAGATA = "Izuhara", "Toyotama", "Kamiagata"
 
 REGIONS = {
     IZUHARA: {"starting": True, "connects_to": [TOYOTAMA]},
-    TOYOTAMA: {"requires": "{Act II Access}", "connects_to": [KAMIAGATA]},
-    KAMIAGATA: {"requires": "{Act III Access}", "connects_to": []},
+    TOYOTAMA: {"requires": "|Act II Access|", "connects_to": [KAMIAGATA]},
+    KAMIAGATA: {"requires": "|Act III Access|", "connects_to": []},
 }
 
 # --- Main story quests (24 item-holding checks; Eternal Blue Sky becomes the goal) ---
@@ -73,6 +75,14 @@ COLLECTIBLES = {
     "Shinto Shrines":  {IZUHARA: 6,  TOYOTAMA: 6,  KAMIAGATA: 4},    # 16
     "Bamboo Strikes":  {IZUHARA: 6,  TOYOTAMA: 6,  KAMIAGATA: 4},    # 16
     "Lighthouses":     {IZUHARA: 3,  TOYOTAMA: 3,  KAMIAGATA: 2},    # 8
+}
+
+# Singular display names for numbered collectible locations (category key stays plural
+# for tracker grouping). ASCII only: the AP client font does not cover em-dashes etc.
+SINGULAR = {
+    "Fox Dens": "Fox Den", "Pillars of Honor": "Pillar of Honor", "Haiku": "Haiku",
+    "Hot Springs": "Hot Spring", "Shinto Shrines": "Shinto Shrine",
+    "Bamboo Strikes": "Bamboo Strike", "Lighthouses": "Lighthouse",
 }
 
 # --- Items --------------------------------------------------------------------
@@ -151,16 +161,16 @@ def add_location(name, category, region, victory=False):
 
 for region, names in MAIN_QUESTS.items():
     for q in names:
-        add_location(f"Main Quest: {q}", "Main Quests", region)
+        add_location(f"Main Quest - {q}", "Main Quests", region)
 
 for region, names in MYTHIC_TALES.items():
     for t in names:
-        add_location(f"Mythic Tale: {t}", "Mythic Tales", region)
+        add_location(f"Mythic Tale - {t}", "Mythic Tales", region)
 
 for category, split in COLLECTIBLES.items():
     for region, count in split.items():
         for i in range(1, count + 1):
-            add_location(f"{category} — {region} #{i}", category, region)
+            add_location(f"{SINGULAR[category]} - {region} #{i}", category, region)
 
 # Goal / victory
 add_location(GOAL_LOCATION, "Goal", KAMIAGATA, victory=True)
@@ -191,7 +201,7 @@ CATEGORIES = {
 }
 
 GAME = {
-    "game": "Ghost of Tsushima",
+    "game": "GhostOfTsushima",
     "creator": "GhostAPWorld",
     "filler_item_name": "Supplies",
     "death_link": False,
